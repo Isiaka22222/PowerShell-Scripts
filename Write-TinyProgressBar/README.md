@@ -4,7 +4,7 @@ PowerShell function to write a small inline progress bar. Inspired by https://gi
 
 ## Output
 
-![Output example](..\Media\Write-TinyProgressBar.gif)
+![Write-TinyProgressBar](https://user-images.githubusercontent.com/22983731/73659892-5b3ad180-4654-11ea-8910-11df77644b8f.gif)
 
 ## Example 1:
 
